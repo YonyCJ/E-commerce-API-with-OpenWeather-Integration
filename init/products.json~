@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": "6780756bf92d152174cd40ab",
+    "name": "Teclado",
+    "description": "Marca DELL",
+    "price": 99.99,
+    "stock": 50
+  },
+  {
+    "id": "678075b0f92d152174cd40ac",
+    "name": "Computadora",
+    "description": "Marca DELL",
+    "price": 99.99,
+    "stock": 50
+  },
+  {
+    "id": "678075f5f92d152174cd40ad",
+    "name": "Mouse",
+    "description": "Marca DELL",
+    "price": 15.5,
+    "stock": 20
+  },
+  {
+    "id": "67807615f92d152174cd40ae",
+    "name": "CPU",
+    "description": "Marca DELL",
+    "price": 150,
+    "stock": 10
+  },
+  {
+    "id": "67807682f92d152174cd40b0",
+    "name": "Botella de agua",
+    "description": "Marca Cielo",
+    "price": 0,
+    "stock": 0
+  }
+]
