@@ -35,7 +35,7 @@ Este comando iniciará:
 - MongoDB en el puerto 27017
 - Mongo Express (UI de administración) en el puerto 8081
 - La aplicación Spring Boot en el puerto 8084
-
+- Insertará datos ficticios de la carpeta Init archivo ecommercedb.js
 2. Verifica que los contenedores estén corriendo:
 ```bash
 docker-compose ps
