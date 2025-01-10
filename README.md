@@ -13,7 +13,7 @@ Este proyecto es una API REST desarrollada con Spring Boot que proporciona funci
 
 1. Clona el repositorio:
 ```bash
-git clone [<url-del-repositorio>](https://github.com/YonyCJ/E-commerce-API-with-OpenWeather-Integration.git)
+git clone https://github.com/YonyCJ/E-commerce-API-with-OpenWeather-Integration.git
 cd E-commerce-API-with-OpenWeather-Integration
 ```
 
